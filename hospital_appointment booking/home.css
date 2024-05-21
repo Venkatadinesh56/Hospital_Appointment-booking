@@ -1,0 +1,293 @@
+
+.hl{
+    background-color: orange;
+}
+
+.r1{
+ 
+   background-image: url('images/doctor\ using\ mobile\ device.webp');
+   background-repeat: no-repeat;
+    background-size: 100%;
+  height: 400px;
+    
+  
+
+}
+
+.imm1{
+  height: 100%;
+  width: 20%;
+  background-color:yellow;
+  
+   
+   
+}
+
+.logo1{
+  
+    width: 100%;
+    height: 100px;
+    
+   
+   
+  
+}
+
+
+
+
+.location{
+    width: 18%;
+    position: relative;
+    top: -70%;
+    left:30%;
+  float: left;
+    
+    
+    
+   
+}
+
+
+
+.Search{
+    width: 18%;
+    position: relative;
+    top:-70%;
+    left:35%;
+    
+   float: left;
+}
+
+.sp1{
+    width: 8%;
+    position: relative;
+   
+    
+    top:-50%;
+    float: right;
+   
+}
+.sp2{
+    width: 8%;
+    
+    position: relative;
+   
+   top:-50%;
+  
+    float:right;
+
+}
+
+
+
+ 
+
+
+.boxt{
+
+ height:20%;
+ width: 70%; 
+
+  position: relative;
+  top: 20px;
+  left:50px ;
+
+ float: left;
+
+
+ 
+ 
+ 
+}
+.t1{
+    width: 10%;
+    height: 15%;
+  
+float: left;
+padding: 1%;
+
+   
+}
+.or1{
+
+    width: 60%;
+    height: 300px;
+    position: relative;
+    left:40%;
+    top: 10%;
+   
+  
+   
+  
+    
+   
+    
+}
+.rt1{
+
+    background-color:aqua;
+  height: 50%;
+    width: 100%;
+    position: relative;
+
+   
+   
+   
+  
+
+
+    
+    
+}
+
+
+.or1text{
+    
+   
+    width: 30%;
+
+    position: relative;
+     top: -70%;
+     left: 10%;
+   
+    text-decoration: #339d3a;
+  
+  
+    
+   
+    
+}
+
+.rt1:hover{
+    -webkit-text-fill-color:white;
+}
+.sp1:hover{
+    -webkit-text-fill-color: blue;
+}
+.sp2:hover{
+    -webkit-text-fill-color: blue;
+}
+.Search:hover{
+    -webkit-text-fill-color:blue;
+}
+.location:hover{
+    -webkit-text-fill-color: blue;
+}
+
+.BA{
+    
+  padding: 8px;
+    
+    background-color:#32a4a8;
+    height: 60px;
+    position: relative;
+    top: 700px;
+    
+}
+.BA:hover{
+    text-shadow: 0 0 20px orange, 0 0 40px yellow;
+}
+
+    
+
+.bx1{
+   border-style: solid;
+    height: 300px;
+    width: 80%;
+    position: relative;
+       top: 150px;
+       left: 150px;
+       border-radius: 10px;
+       background-color:lightsalmon ;
+
+}
+.ibx1{
+    height: 100%;
+    width: 40%;
+    position: relative;
+    
+    background-color:lightgreen;
+    object-fit: cover;
+  
+}
+.iibx1{
+    position: relative;
+    top:-130px;
+    left: 50px;
+}
+.tbx1{
+    width: 50%;
+    height: 250px;
+ 
+    position: relative;
+    top:-270px;
+    left: 550px;
+}
+
+.pbx1{
+    border-radius: 5px;
+    padding: 5px;
+    background-color: #339d3a;
+    height: 27px;
+    width: 150px;
+    display: inline-flex;
+    -webkit-box-align: center;
+    float: left;
+   
+}
+.bbx1{
+    border-radius: 5px;
+    padding: 5px;
+    background-color:blue;
+    height: 27px;
+    width: 150px;
+    display: inline-flex;
+    -webkit-box-align: center;
+    
+    
+  
+    
+}
+.Lbx1{
+    border-radius: 5px;
+    padding: 5px;
+    background-color:blueviolet;
+    height: 27px;
+    width: 150px;
+    display: inline-flex;
+    -webkit-box-align: center;
+    float:right;
+   
+    
+}
+
+
+.t1:hover{
+    transform: scale(0.5);
+    transform: scale(1.5);
+    
+}
+
+.bbx1:hover{
+    transform: scale(1.2);
+    
+}
+.Lbx1:hover{
+    transform: scale(1.2);
+    
+}
+.pbx1:hover{
+    transform: scale(1.2);
+    
+}
+.iibx1:hover{
+    
+    transform: scale(1.1);
+}
+.bx1:hover{
+    box-shadow:0 0 20px gray, 0 0 40px  gray;
+}
+
+
+

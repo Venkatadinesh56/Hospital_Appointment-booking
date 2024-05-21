@@ -1,0 +1,130 @@
+.bird1{
+    border-style: solid;
+    height: 100px;
+    background-image: url("images/headimage.png");
+    
+}
+.location{
+    width: 200px;
+    position: relative;
+    top:-80px;
+    left:440px;   
+   
+}
+
+.Search{
+    width: 200px;
+    position: relative;
+  top:-145px;
+    left:840px;
+}
+.Search:hover{
+    -webkit-text-fill-color:blue;
+}
+.location:hover{
+    -webkit-text-fill-color: blue;
+}
+.sp1{
+    width: 100px;
+    
+    position: relative;
+    top:-200px;
+    right: 50px;
+    float: right; 
+}
+.sp1:hover{
+    -webkit-text-fill-color:blue;
+}
+
+.sp2{
+    width: 100px;
+    
+    position: relative;
+    top:-200px;
+    right:50px;
+    float:right;  
+
+}
+.sp2:hover{
+    -webkit-text-fill-color:blue;
+}
+.returnhome{
+    
+    padding: 0 7px 0 7px;
+    width: 60px;
+    height: 20px;
+    position: relative;
+    top:-185px;
+    left: 250px;
+    
+}
+
+
+
+.doctorb1{
+    
+    display: flex;
+    
+   
+    width: 1265px;
+    height: 390px;
+    position: relative;
+    left:160px;
+
+    
+    
+   
+   
+}
+.doctord{
+    
+    width: 400px;
+    height: 350px;
+    padding: 20px 20px;
+  
+}
+.birdsd1{
+    
+   border: solid;
+    width: 330px;
+    height: 310px;
+    padding: 20px;
+   
+
+}
+.spc{
+    width: 10px;
+   
+}
+.doctorb1b1{
+   
+    border: solid;
+    width: 195px;
+    position: relative;
+    left:50px;
+
+    
+}
+.doctorb1b2{
+   
+
+    position: relative;
+    left: 50px;
+
+
+}
+.doctorb1b3{
+  border-radius: 20px;
+    position: relative;
+    top:-10px;
+    left:50px;
+}
+.doctorb1b1:hover{
+    transform: scale(1.1);
+}
+.doctorb1b2:hover{
+    transform: scale(1.1);
+}
+.doctorb1b3:hover{
+    transform: scale(1.1);
+}

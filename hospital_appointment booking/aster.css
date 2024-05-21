@@ -1,0 +1,147 @@
+.bird1{
+    border-style: solid;
+    height: 100px;
+    background-image: url("images/headimage.png");
+    
+}
+.location{
+    width: 200px;
+    position: relative;
+    top:-80px;
+    left:440px;   
+   
+}
+
+.Search{
+    width: 200px;
+    position: relative;
+  top:-145px;
+    left:840px;
+}
+.Search:hover{
+    -webkit-text-fill-color:blue;
+}
+.location:hover{
+    -webkit-text-fill-color: blue;
+}
+.sp1{
+    width: 100px;
+    
+    position: relative;
+    top:-200px;
+    right: 50px;
+    float: right; 
+}
+.sp1:hover{
+    -webkit-text-fill-color:blue;
+}
+
+.sp2{
+    width: 100px;
+    
+    position: relative;
+    top:-200px;
+    right:50px;
+    float:right;  
+
+}
+.sp2:hover{
+    -webkit-text-fill-color:blue;
+}
+.returnhome{
+    
+    padding: 10px;
+    width: 60px;
+    height: 20px;
+    position: relative;
+    top:-185px;
+    left: 250px;
+    
+}
+.birdim{
+    position: relative;
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+    position: relative;
+
+}
+.birdb1{
+    padding:10px;
+    border-style: solid;
+    width: 80%;
+   position: relative;
+   top:30px;
+   left: 140px;
+   display: flex;
+
+   
+  
+   
+}
+.bir1{
+    border-style: solid;
+    
+    width:1200px;
+   
+  
+    position: relative;
+    top:60px;
+    left: 155px;
+
+}
+.bir3{
+  
+    width: 80%;
+    height: auto;
+    position: relative;
+    top:80px;
+    left: 160px;
+}
+.birdam{
+border: solid;
+width: 80%;
+height: 630px;
+position: relative;
+top:80px;
+left: 160px;
+}
+
+
+.birdmap{
+
+    width: 1100px;
+    height: 500px;
+    position: relative;
+   left:50px;
+   top:20px;
+   
+   align-items: center;
+}
+.birdmap:hover{
+    box-shadow:0 0 20px gray, 0 0 40px  gray;
+    transform: scale(1.09);
+}
+.birdda{
+    height: 70px;
+    width: 200px;
+    background-color: red;
+    position: relative;
+    top:100px;
+    left:650px;
+}
+.bird2page{
+    background-color: red;
+    position: relative;
+    top:130px;
+}
+.birdda{
+    
+    box-shadow:0 0 20px red, 0 0 40px orchid;
+    -webkit-text-fill-color:blue;
+
+}
+
+
+
+

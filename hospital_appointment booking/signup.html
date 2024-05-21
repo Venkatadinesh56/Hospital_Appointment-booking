@@ -1,0 +1,61 @@
+<html>
+    <head>
+        <title>signup</title>
+        <link rel="stylesheet" href="signup.css">
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    </head>
+    <body>
+        <div class="lb">
+       <div class="bird1">
+           <image height="100px" src="images/Screenshot 2024-01-01 174122.png"></image>
+     <div class="location">
+            <i class="material-icons" style="font-size:20px">place</i>
+      <font size="4"> Location:</font>
+            <select style="width: 300px; height: 40px;font-size: large;color: gray;">
+                <option style="font-size: large;color: gray;">Tirupati</option>
+            </select>
+           </div>
+           <div class="Search">
+            <i class="material-icons" style="font-size:20px">search</i>
+            <font size="4"> Search:</font>
+                <input style="width: 300px; height: 40px; font-size: larger;" type="search" placeholder="Hospital">
+            </div>
+            <div class="sp1">
+                <button style="height: 40px; width: 100px;font-size: large;">Signup</button>
+        </div>
+        <div class="sp2">
+                <button style="height: 40px; width: 100px;font-size: large;">Login</button>
+        </div>
+        <div class="returnhome"><a href="home.html"><font size="5">Home</font></a>/<font size="4">Login</font></div>
+       </div>   
+       
+      
+        <br><br>
+       <center><font size="7" ><b>Sign up</b></font></center>
+      
+         <div class="l1" >
+            <form method="POST" action="http://localhost:4040/CSE(DS)21121A3256/signup.php">
+            <center><br><br>
+                <font size="4" style="position: relative; left: -80px;">FirstName</font><br>
+               <input type="text" name="firstname" placeholder="Enter First Name"  style="height: 30px; width:40%;"><br>
+               <font size="4" style="position: relative; left: -80px;">LastName</font><br>
+               <input type="text" name="lastname" placeholder="Enter Last Name"  style="height: 30px; width:40%;"><br>
+               <font size="4" style="position: relative; left: -95px;">Email</font><br>
+               <input type="text" name="email" placeholder="Enter Email"  style="height: 30px; width:40%;"><br>
+               <font size="4" style="position: relative; left: -85px;">Password</font><br>
+               <input type="text" name="password" placeholder="Enter Password"  style="height: 30px; width:40%;"><br>
+               <font size="4" style="position: relative; left: -85px;">Number</font><br>
+               <input type="text" name="number" placeholder="Enter Number"  style="height: 30px; width:40%;"><br>
+               Already a member?<a href="login.html">Log in</a><br><br>
+               <button style="width: 120px; height: 35px;">Signup</button>
+               
+                
+            </center>
+            </form>
+         </div>
+         </div>
+         
+    </body>
+
+</html>
