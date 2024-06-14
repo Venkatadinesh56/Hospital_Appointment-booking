@@ -1,0 +1,91 @@
+.bird1{
+    border-style: solid;
+    height: 100px;
+    background-image: url("images/headimage.png");
+    
+}
+.location{
+    width: 200px;
+    position: relative;
+    top:-80px;
+    left:440px;   
+   
+}
+
+.Search{
+    width: 200px;
+    position: relative;
+  top:-145px;
+    left:840px;
+}
+.Search:hover{
+    -webkit-text-fill-color:blue;
+}
+.location:hover{
+    -webkit-text-fill-color: blue;
+}
+.sp1{
+    width: 100px;
+    
+    position: relative;
+    top:-200px;
+    right: 50px;
+    float: right; 
+}
+.sp1:hover{
+    -webkit-text-fill-color:blue;
+}
+
+.sp2{
+    width: 100px;
+    
+    position: relative;
+    top:-200px;
+    right:50px;
+    float:right;  
+
+}
+.sp2:hover{
+    -webkit-text-fill-color:blue;
+}
+.returnhome{
+    
+    padding: 10px;
+    width: 60px;
+    height: 20px;
+    position: relative;
+    top:-185px;
+    left: 250px;
+    
+}
+
+.doctorb1{
+    border: solid;
+    width: 70%;
+    height: 240px;
+    position: relative;
+    left:260px;
+   
+    display: flex;
+    
+}
+.doctorb1b1{
+    
+    width: 205px;
+    padding: 20px;
+    border: solid;
+}
+.doctorb1b2{
+    
+    position: relative;
+    left: 70px;
+    width: 50%;
+  
+
+}
+.doctorb1b3{
+  border-radius: 20px;
+    position: relative;
+    top:100px;
+    left: 70px;
+}

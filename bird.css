@@ -1,0 +1,178 @@
+.birdr1{
+  
+    width: 100%;
+    height: 16%;
+   
+ 
+}
+
+.bird1{
+  
+    border-style: solid;
+    height: 100px;
+   
+    background-image: url("images/headimage.png");
+    
+    
+}
+.location{
+    width: 20%;
+    position: relative;
+    top:-80px;
+    left:34%;  
+  
+   
+}
+
+.Search{
+    width: 20%;
+    position: relative;
+  top:-145px;
+    left:55%;
+}
+
+.Search:hover{
+    -webkit-text-fill-color:blue;
+}
+.location:hover{
+    -webkit-text-fill-color: blue;
+}
+
+.sp1{
+    width: 100px;
+    
+    position: relative;
+    top:-190px;
+    right: 4%;
+    float: right; 
+}
+.sp1:hover{
+    -webkit-text-fill-color:blue;
+}
+
+.sp2{
+    width: 100px;
+    
+    position: relative;
+    top:-190px;
+    right:3%;
+    float:right;  
+
+}
+
+.sp2:hover{
+    -webkit-text-fill-color:blue;
+}
+
+.returnhome{
+    
+
+    width: 11%;
+    height: 20%;
+    position: relative;
+    top:-55px;
+    left: 18%;
+   
+    
+    
+    
+}
+@media (max-width:900px) 
+{
+ 
+ .birdb1{
+    position: relative;
+    top: -500px;
+ }
+
+}
+.birdim{
+    position: relative;
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+    position: relative;
+  
+
+}
+.birdb1{
+    padding:10px;
+    border-style: solid;
+    width: 80%;
+   position: relative;
+   top:15px;
+   left: 9.5%;
+   display: flex;
+
+   
+  
+   
+}
+.bir1{
+    border-style: solid;
+    
+    width:79.9%;
+   
+
+    position: relative;
+    top:60px;
+    left: 10.5%;
+
+}
+
+.bir3{
+  
+    width: 80%;
+    height: auto;
+    position: relative;
+    top:80px;
+    left: 12%;
+}
+.birdam{
+border: solid;
+width: 80%;
+height: 630px;
+position: relative;
+top:80px;
+left: 11%;
+}
+
+
+.birdmap{
+
+    width: 91.5%;
+    height: 500px;
+    position: relative;
+   left:50px;
+   top:20px;
+   
+   align-items: center;
+}
+.birdmap:hover{
+    box-shadow:0 0 20px gray, 0 0 40px  gray;
+    transform: scale(1.09);
+}
+.birdda{
+    height: 70px;
+    width: 200px;
+    background-color: red;
+    position: relative;
+    top:100px;
+    left:45%;
+}
+.bird2page{
+    background-color: red;
+    position: relative;
+    top:130px;
+}
+
+.birdda{
+    
+    box-shadow:0 0 20px red, 0 0 40px orchid;
+    -webkit-text-fill-color:blue;
+
+}
+
+
+
+
