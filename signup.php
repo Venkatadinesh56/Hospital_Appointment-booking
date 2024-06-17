@@ -10,6 +10,7 @@ if(!$conn)
     echo "connection filed".mysqli_connect_error();
     exit;
 }
+
 $fname=$_POST['firstname'];
 $lname=$_POST['lastname'];
 $email=$_POST['email'];
