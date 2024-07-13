@@ -1,2 +1,3 @@
-# About the website
-The website is used to book the appointment in hospital.
+<h1>Hospital Appointment Booking</h1>
+<p> Home page </p>
+<img src="https://drive.google.com/file/d/1jTVEnN6n6Am11tvjGkUAeweJi-GMIWXo/view?usp=sharing">
