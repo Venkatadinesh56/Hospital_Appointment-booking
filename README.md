@@ -1,3 +1,5 @@
-<h1>Hospital Appointment Booking</h1>
-<p> Home page </p>
-<p><img src="https://drive.google.com/file/d/1jTVEnN6n6Am11tvjGkUAeweJi-GMIWXo/view?usp=sharing"></p>
+# Hospital Appointment Booking
+
+## Home page
+
+![Home Page](https://drive.google.com/uc?export=view&id=1jTVEnN6n6Am11tvjGkUAeweJi-GMIWXo)
