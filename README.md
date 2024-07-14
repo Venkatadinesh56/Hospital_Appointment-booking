@@ -13,9 +13,11 @@ Welcome to the Hospital Appointment Booking System! This application allows user
 
 ## Technologies Used
 
-- Express.js
-- MongoDB
-- Flutter (for the front-end)
+- HTML
+- CSS
+- JAVA SCRIPT
+- PHP
+- XAMPP
 
 ## Screenshots
 
@@ -28,17 +30,7 @@ Welcome to the Hospital Appointment Booking System! This application allows user
 
 ![Login Page](https://drive.google.com/uc?export=view&id=1VVNlXD56kpW6dwDV7tjf5_Z0cGk8oq4O)
 
-## Getting Started
 
-To get a local copy up and running, follow these steps:
-
-### Prerequisites
-
-- Node.js
-- MongoDB
-- Flutter
-
-### Installation
 
 1. Clone the repository:
 
