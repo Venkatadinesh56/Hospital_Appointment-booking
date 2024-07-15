@@ -1,4 +1,4 @@
-# Hospital Appointment Booking System
+<h1 align="center">Hospital Appointment Booking System</h1>
 
 ## Introduction
 
