@@ -7,9 +7,9 @@ Welcome to the Hospital Appointment Booking System! This application allows user
 ## Features
 
 - User registration and login
+- Hospital details and location
 - Book appointments with available doctors
-- View and manage appointments
-- User-friendly interface
+- View appointments
 
 ## Technologies Used
 
@@ -23,14 +23,44 @@ Welcome to the Hospital Appointment Booking System! This application allows user
 
 ### Home Page
 
-![Home Page](https://drive.google.com/uc?export=view&id=1jTVEnN6n6Am11tvjGkUAeweJi-GMIWXo)
-![Home Page](https://drive.google.com/uc?export=view&id=1nHazgixe8AiACyqhINYWvGb9sIz96F9Y)
+![Home Page](https://i.postimg.cc/QM9jyZGH/Screenshot-2024-04-02-124327.png)
+![Home Page](https://i.postimg.cc/wBC9K4gF/Screenshot-2024-04-02-124355.png)
+
+### Signup Page
+
+![signup](https://i.postimg.cc/mg6bj2nv/Screenshot-2024-04-02-124107.png)
 
 ### Login Page
 
-![Login Page](https://drive.google.com/uc?export=view&id=1VVNlXD56kpW6dwDV7tjf5_Z0cGk8oq4O)
+![Login Page](https://i.postimg.cc/MpG61j90/Screenshot-2024-04-02-124133.png)
+
+### Backend signup data storage in Xampp
+
+![Backend](https://i.postimg.cc/g25WRtXd/Screenshot-2024-04-19-124114.png)
+
+### Hospital Details
+
+![Hospital Details](https://i.postimg.cc/9FGjMDkp/Screenshot-2024-07-16-110933.png)
+![Hospital Details](https://i.postimg.cc/sxyyxBBh/Screenshot-2024-04-02-124532.png)
 
 
+### Doctors Details
+
+![Doctors Details](https://i.postimg.cc/CMHSt4tH/Screenshot-2024-04-02-124555.png)
+![Doctors Details](https://i.postimg.cc/3wvHZjmG/Screenshot-2024-04-19-122856.png)
+![Doctors Details](https://i.postimg.cc/3RQQfyFc/Screenshot-2024-04-19-122914.png)
+
+### user appointment Details
+
+![User appointment Details](https://i.postimg.cc/CLhSVqpy/Screenshot-2024-04-02-124642.png)
+
+### User Appointment Receipt
+
+![Receipt](https://i.postimg.cc/02Vx5y9z/Screenshot-2024-04-02-124658.png)
+
+### Hospital Appointment data in the Xampp
+
+![backend](https://i.postimg.cc/mgh4PWr8/Screenshot-2024-04-19-123632.png)
 
 1. Clone the repository:
 
