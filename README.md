@@ -49,7 +49,7 @@ Welcome to the Hospital Appointment Booking System! This application allows user
 
 ![Doctors Details](https://i.postimg.cc/GmNj2mh4/Screenshot-2024-04-19-122757.png)
 ![Doctors Details](https://i.postimg.cc/HLDtc975/Screenshot-2024-04-19-122856.png)
-![Doctors Details](https://i.postimg.cc/3RQQfyFc/Screenshot-2024-04-19-122914.png)
+![Doctors Details](https://i.postimg.cc/GmmqmGXc/Screenshot-2024-04-19-122914.png)
 
 ### user appointment Details
 
