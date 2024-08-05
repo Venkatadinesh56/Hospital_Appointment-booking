@@ -53,7 +53,7 @@ Welcome to the Hospital Appointment Booking System! This application allows user
 
 ### user appointment Details
 
-![User appointment Details](https://i.postimg.cc/CLhSVqpy/Screenshot-2024-04-02-124642.png)
+![User appointment Details](https://i.postimg.cc/TwWvmb0b/Screenshot-2024-04-19-123231.png)
 
 ### User Appointment Receipt
 
