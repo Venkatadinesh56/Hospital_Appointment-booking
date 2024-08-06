@@ -61,7 +61,7 @@ Welcome to the Hospital Appointment Booking System! This application allows user
 
 ### Hospital Appointment data in the Xampp
 
-![backend](https://i.postimg.cc/mgh4PWr8/Screenshot-2024-04-19-123632.png)
+![backend](https://i.postimg.cc/mZ5DqyMC/Screenshot-2024-04-19-123632.png)
 
 1. Clone the repository:
 
