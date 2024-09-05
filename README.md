@@ -65,5 +65,5 @@ Welcome to the Hospital Appointment Booking System! This application allows user
 
 1. Clone the repository:
 
-   ```sh
+ ```sh
    git clone https://github.com/yourusername/hospital-appointment-booking.git
