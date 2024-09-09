@@ -5,7 +5,7 @@
 
 Welcome to the Hospital Appointment Booking System! This application allows users to book appointments with doctors seamlessly. The system includes features like user registration and login, appointment booking, and more.  
 
-## Features
+## Features 
 
 - User registration and login
 - Hospital details and location
