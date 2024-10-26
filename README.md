@@ -29,12 +29,12 @@ Welcome to the Hospital Appointment Booking System! This application allows user
 
 ### Signup Page
 
-<img src="https://drive.google.com/uc?id=1ka71pd92H9JRcGOxbnW7Ak3hxLMj98JO" alt="Signup Image" style="max-width: 100%; height: auto;" />
+[Download File from Google Drive](https://drive.google.com/file/d/1WBFrClqXQrun5BISQgN_w4ZdEnl-4FC3/view)
+
 
 ### Login Page
 
-
-<img src="https://drive.google.com/file/d/1Z9FV1I2CunOlIaAWLTOMxxt3y26PZVQc" alt="Signup Image" style="max-width: 100%; height: auto;" />
+<img src="https://drive.google.com/1Z9FV1I2CunOlIaAWLTOMxxt3y26PZVQc/view?usp=drive_link" alt="Login Image" style="max-width: 100%; height: auto;" />
 
 ### Backend signup data storage in Xampp
 
