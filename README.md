@@ -24,7 +24,7 @@ Welcome to the Hospital Appointment Booking System! This application allows user
 
 ### Home Page
 
-![Home Page](https://i.postimg.cc/QM9jyZGH/Screenshot-2024-04-02-124327.png)
+<img src="https://drive.usercontent.google.com/download?id=1V6-iPiAfKBYJMSgo8ZALMmTLAW-Ltp1Q&authuser=0" alt="Login Image" style="max-width: 100%; height: auto;" />
 ![Home Page](https://i.postimg.cc/wBC9K4gF/Screenshot-2024-04-02-124355.png)
 
 ### Signup Page
