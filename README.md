@@ -55,15 +55,14 @@ Welcome to the Hospital Appointment Booking System! This application allows user
 
 ### user appointment Details
 
-![User appointment Details](https://i.postimg.cc/TwWvmb0b/Screenshot-2024-04-19-123231.png)
-
+<img src="https://drive.usercontent.google.com/download?id=1V3uI0TqPEax4MD3LIqVO17z8F4sR3a1Q&authuser=0" alt="Hospital Appointment data" style="max-width: 100%; height: auto;" />
 ### User Appointment Receipt
 
-![Receipt](https://i.postimg.cc/02Vx5y9z/Screenshot-2024-04-02-124658.png)
+<img src="https://drive.usercontent.google.com/download?id=1Z_6_q623AGmn28KoXhI7MYS0Lz4QjhIq&authuser=0" alt="Hospital Appointment data" style="max-width: 100%; height: auto;" />
 
 ### Hospital Appointment data in the Xampp
 
-![backend](https://i.postimg.cc/mZ5DqyMC/Screenshot-2024-04-19-123632.png)
+<img src="https://drive.usercontent.google.com/download?id=14gEBg6NO8x40nAAoKwSSJzzTpjxkUrfZ&authuser=0" alt="Hospital Appointment data" style="max-width: 100%; height: auto;" />
 
 1. Clone the repository:
 
