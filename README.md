@@ -34,7 +34,7 @@ Welcome to the Hospital Appointment Booking System! This application allows user
 ### Login Page
 
 
-![Login Page](https://i.postimg.cc/0QmcNyZ8/Screenshot-2024-04-19-121128.png)
+<img src="https://drive.google.com/file/d/1Z9FV1I2CunOlIaAWLTOMxxt3y26PZVQc" alt="Signup Image" style="max-width: 100%; height: auto;" />
 
 ### Backend signup data storage in Xampp
 
