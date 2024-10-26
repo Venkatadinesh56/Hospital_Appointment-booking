@@ -29,7 +29,7 @@ Welcome to the Hospital Appointment Booking System! This application allows user
 
 ### Signup Page
 
-![signup](https://i.postimg.cc/mg6bj2nv/Screenshot-2024-04-02-124107.png)
+![signup](https://drive.google.com/file/d/1ka71pd92H9JRcGOxbnW7Ak3hxLMj98JO/view)
 
 ### Login Page
 
