@@ -44,8 +44,8 @@ Welcome to the Hospital Appointment Booking System! This application allows user
 
 ### Hospital Details
 
-![Hospital Details](https://i.postimg.cc/9FGjMDkp/Screenshot-2024-07-16-110933.png)
-![Hospital Details](https://i.postimg.cc/sxyyxBBh/Screenshot-2024-04-02-124532.png)
+<img src="https://drive.usercontent.google.com/download?id=1CLvDXUWLXmsYyMTjPts4_PaO0Nd7B9F4&authuser=0" alt="Hospital Details page" style="max-width: 100%; height: auto;" />
+<img src="https://drive.usercontent.google.com/download?id=1LbhscBVPJN_cWhjfZiBrLtY-tU4tPyzf&authuser=0" alt="Hospital Details page" style="max-width: 100%; height: auto;" />
 
 
 ### Doctors Details
