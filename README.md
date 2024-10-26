@@ -40,8 +40,7 @@ Welcome to the Hospital Appointment Booking System! This application allows user
 
 ### Backend signup data storage in Xampp
 
-<img src="https://drive.usercontent.google.com/download?id=14euU4alOrOGnNsjzUAKFwJOwbpp6W2Qk&authuser=0
-" alt="Signup data storage in Xampp" style="max-width: 100%; height: auto;" />
+<img src="https://drive.usercontent.google.com/download?id=14euU4alOrOGnNsjzUAKFwJOwbpp6W2Qk&authuser=0" alt="Signup data storage in Xampp" style="max-width: 100%; height: auto;" />
 ### Hospital Details
 
 <img src="https://drive.usercontent.google.com/download?id=1CLvDXUWLXmsYyMTjPts4_PaO0Nd7B9F4&authuser=0" alt="Hospital Details page" style="max-width: 100%; height: auto;" />
