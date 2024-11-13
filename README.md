@@ -66,6 +66,6 @@ Welcome to the Hospital Appointment Booking System! This application allows user
 <img src="https://drive.usercontent.google.com/download?id=14gEBg6NO8x40nAAoKwSSJzzTpjxkUrfZ&authuser=0" alt="Hospital Appointment data" style="max-width: 100%; height: auto;" />
 
 1. Clone the repository:
-
+ 
  ```sh
    git clone https://github.com/yourusername/hospital-appointment-booking.git
